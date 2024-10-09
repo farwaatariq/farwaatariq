@@ -25,10 +25,15 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/farwa-tariq-646677282" target="blank">
+  <a href="www.linkedin.com/in/farwa-tariq-646677282" target="www.linkedin.com/in/farwa-tariq-646677282">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" />
   </a>
 </p>
 <br>
-<h3 align="center">Streak Stats</h3>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=farwaatariq&theme=discord-old-blurple&border_radius=6.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<div align="center">
+  <h3 align="center">Streak Stats</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=farwaatariq&theme=discord-old-blurple&border_radius=6.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
