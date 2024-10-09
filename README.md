@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 <h3 align="center">Streak Stats</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farwaatariq&theme=discord-old-blurple&border_radius=6.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=farwaatariq&theme=discord-old-blurple&border_radius=6.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
