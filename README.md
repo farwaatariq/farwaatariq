@@ -3,7 +3,8 @@ farwaatariq/farwaatariq is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![_intro](https://github.com/user-attachments/assets/1f843141-f31b-4eeb-b0c5-853d40ddefb3)
-
+<br>
+<br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
