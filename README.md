@@ -23,14 +23,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 <br>
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="www.linkedin.com/in/farwa-tariq-646677282" target="www.linkedin.com/in/farwa-tariq-646677282">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" />
-  </a>
-</p>
-<br>
-<br>
 <br>
 <div align="center">
   <h3 align="center">Streak Stats</h3>
